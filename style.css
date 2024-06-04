@@ -1,4 +1,17 @@
+h1 {color: blue;}
+h1 {font-family: 'Courier New', Courier, monospace;}
+h1 {font-size: larger;}
+
+
+
+
 h2 {color: blue;}
+h2 {font-family: 'Courier New', Courier, monospace;}
 h2 {font-size: larger;}
-p {color: black;}
+
 body {background-color: azure;}
+body{font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+body{font-size: larger;}
+
+p {color: black;}
+
